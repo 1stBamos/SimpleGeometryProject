@@ -13,3 +13,7 @@
 ## Developers
 
 - [1stBamos](https://github.com/1stBamos)
+
+## License
+
+MIT license
